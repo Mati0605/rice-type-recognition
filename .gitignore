@@ -2,3 +2,6 @@ Rice_Image_Dataset/
 model.keras
 notebook/
 .conda/
+rice-image-dataset.zip
+.DS_Store
+rice_dataset/
